@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/find-the-card/static/css/main.31e074b7.css",
+    "main.js": "/find-the-card/static/js/main.4451f1e7.js",
+    "static/js/787.db6f64ef.chunk.js": "/find-the-card/static/js/787.db6f64ef.chunk.js",
+    "static/media/music.wav": "/find-the-card/static/media/music.1410a48041d5794e3435.wav",
+    "static/media/bg.mp3": "/find-the-card/static/media/bg.25004574239b814be9ce.mp3",
+    "static/media/card.jpg": "/find-the-card/static/media/card.99f6c7c9af20e4342419.jpg",
+    "static/media/gameover.wav": "/find-the-card/static/media/gameover.183e2b8a775ec673ac2a.wav",
+    "static/media/click.wav": "/find-the-card/static/media/click.b1921f571e5976b70850.wav",
+    "static/media/win.wav": "/find-the-card/static/media/win.e0a5f7555b339b9bec67.wav",
+    "static/media/bg.png": "/find-the-card/static/media/bg.a7e28763b58dd3589920.png",
+    "service-worker.js": "/find-the-card/service-worker.js",
+    "index.html": "/find-the-card/index.html",
+    "main.31e074b7.css.map": "/find-the-card/static/css/main.31e074b7.css.map",
+    "main.4451f1e7.js.map": "/find-the-card/static/js/main.4451f1e7.js.map",
+    "787.db6f64ef.chunk.js.map": "/find-the-card/static/js/787.db6f64ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31e074b7.css",
+    "static/js/main.4451f1e7.js"
+  ]
+}
